@@ -1,7 +1,7 @@
 # Here is a guide/documentation for the code and the steps I took to 
 # make the seurat and cellchat objects as well as any of the graphs.
 # Most of this is just modifications from the seurat and cellchat 
-# guides on their website or github. Email for contact is shalabyc21@gmail.com
+# guides on their website or github. Email for contact
 
 
 
